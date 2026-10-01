@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0369a1,100:00d9ff&height=215&section=header&text=PIYUSH%20MANDHARE&fontColor=ffffff&fontSize=43&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Integration%20%7C%20Builder&descAlignY=59&descSize=17&animation=fadeIn" alt="Piyush Mandhare banner" />
 
-<a href="https://github.com/mandharepiyush10-lab"><img src="https://komarev.com/ghpvc/?username=mandharepiyush10-lab&style=for-the-badge&color=0088ff&label=PROFILE+VIEWS" alt="Profile views" /></a>
+<a href="https://github.com/mandharepiyush10"><img src="https://komarev.com/ghpvc/?username=mandharepiyush10&style=for-the-badge&color=0088ff&label=PROFILE+VIEWS" alt="Profile views" /></a>
 <img src="https://img.shields.io/badge/Open%20to-Internships-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="Open to internships" />
 
 ### Hey, I'm Piyush 👋
@@ -51,16 +51,16 @@
 | **Cafe Finder** | Discover nearby cafés on a map | Maps and location-based web development |
 | **JanSetu AI** | Hackathon project exploring AI-assisted civic workflows | AI integration |
 
-> 🔎 Projects shown here reflect my development work and interests. Explore the repositories linked directly on my [GitHub profile](https://github.com/mandharepiyush10-lab) as they become public.
+> 🔎 Projects shown here reflect my development work and interests. Explore the repositories linked directly on my [GitHub profile](https://github.com/mandharepiyush10) as they become public.
 
 ### 📊 GitHub activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mandharepiyush10-lab&show_icons=true&hide_border=true&bg_color=020617&title_color=00c8ff&text_color=dae8f6&icon_color=38bdf8" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandharepiyush10-lab&layout=compact&hide_border=true&bg_color=020617&title_color=00c8ff&text_color=dae8f6" alt="Most-used repository languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mandharepiyush10&show_icons=true&hide_border=true&bg_color=020617&title_color=00c8ff&text_color=dae8f6&icon_color=38bdf8" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandharepiyush10&layout=compact&hide_border=true&bg_color=020617&title_color=00c8ff&text_color=dae8f6" alt="Most-used repository languages" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=mandharepiyush10-lab&theme=transparent&background=020617&ring=00c8ff&fire=38bdf8&currStreakLabel=00c8ff&sideLabels=ddeeff&dates=94a3b8&hide_border=true" alt="GitHub streak" />
+<img width="95%" src="https://streak-stats.demolab.com?user=mandharepiyush10&theme=transparent&background=020617&ring=00c8ff&fire=38bdf8&currStreakLabel=00c8ff&sideLabels=ddeeff&dates=94a3b8&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -68,8 +68,8 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mandharepiyush10-lab/mandharepiyush10-lab/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/mandharepiyush10-lab/mandharepiyush10-lab/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mandharepiyush10/mandharepiyush10/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/mandharepiyush10/mandharepiyush10/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 
@@ -79,8 +79,8 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandharepiyush10-lab)
-[![Repositories](https://img.shields.io/badge/Explore_My_Work-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandharepiyush10-lab?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandharepiyush10)
+[![Repositories](https://img.shields.io/badge/Explore_My_Work-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandharepiyush10?tab=repositories)
 
 **Open to learning, collaborating, and building something useful.**
 
