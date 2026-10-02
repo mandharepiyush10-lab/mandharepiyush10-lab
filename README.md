@@ -26,7 +26,7 @@
 
 ```js
 const piyush = {
-  focus: "Full-Stack + AI Integration",
+  focus: "Full-Stack + AI ",
   building: "Useful web applications",
   learning: ["React", "Backend", "AI tools"],
   interestedIn: [
