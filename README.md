@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: [@YOUR_USERNAME](https://github.com/piyush-devx10)
-- 🔗 LinkedIn: [Your Name](https://www.linkedin.com/in/piyush-mandhare-8192b234a/)
+- 💻 GitHub: [@piyush-devx10](https://github.com/piyush-devx10)
+- 🔗 LinkedIn: [Piyush Mandhare](https://www.linkedin.com/in/piyush-mandhare-8192b234a/)
 
 ---
 ⭐ Thanks for visiting my profile! Keep learning and keep building. 🚀
