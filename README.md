@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 👨‍💻 About Me
 
-- 🏫 Studying at **YOUR COLLEGE NAME**
+- 🏫 Studying at **Sinhgad Institute of Technology,Lonavala**
 - 🌱 Currently learning **Python, Git & GitHub**
 - 💻 Interested in **Software Development**
 - 🎯 Goal: **Build useful projects and improve my coding skills**
