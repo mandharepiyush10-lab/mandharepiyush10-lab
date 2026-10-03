@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 🚀 My Projects
 
-- **My First Project** — Write one sentence about what you made. [View project](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
+- **My First Project** — Python Intermediate level Porject. [View project](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
 
 ## 📫 Connect With Me
 
